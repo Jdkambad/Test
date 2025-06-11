@@ -1,2 +1,2 @@
 # Test
-This is Test Repo Aouthr-Jitu
+This is Test Repo Auther-Jitu
